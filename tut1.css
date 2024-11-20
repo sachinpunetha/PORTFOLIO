@@ -4,10 +4,12 @@
    
     font-size: 30px;
     margin-top: 100px;
+    text-align: center;
+   
     
 }
 .navbar li{
-    display: inline-block;
+     display: inline-block; 
    list-style: none;
 }
 .navbar li a{
@@ -15,7 +17,7 @@
     text-decoration: none;
     padding: 50px;
     color: rgb(13, 50, 57);
-    margin-left: 40px;
+    /* margin-left: 40px; */
    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
@@ -28,23 +30,31 @@ img{
     border-radius: 50%;
     margin-left: 200px;
 }
+#about{
+   
+  
+   text-align: center;
+     
+    
+}
+#photo{
+  
+    margin-top: 100px;
+}
 .dive{
     color: rgb(15, 66, 66);
-   
     padding: 100px;
     height: 500px;
     width: 500px;
+    float: left;
     
-  float: left;
 }
 .clmn{
     color: rgb(8, 75, 75);margin-left: 600px;font-size: 70px;
     margin-top: 10px;
     padding-top: 50px;
 }
-#about{
-    margin-left: 50px;
-}
+
 .side{float: left;
     color: rgb(15, 90, 90);
     font-size: 33px;
