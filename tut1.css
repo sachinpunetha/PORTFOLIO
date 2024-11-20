@@ -4,7 +4,7 @@
    
     font-size: 30px;
     margin-top: 100px;
-    text-align: center;
+    text-align:left;
    
     
 }
@@ -18,7 +18,7 @@
     padding: 50px;
     color: rgb(13, 50, 57);
     /* margin-left: 40px; */
-   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-family: Impact,'Arial Narrow Bold', sans-serif;
 
 }
 .navbar ul{
